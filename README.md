@@ -1,5 +1,7 @@
 ## 常用资源
 
+[地址](https://qinchao888.github.io/resource/)
+
 [rem.min.js](./js/rem.min.js)
 
 [vue.js](./js/vue.js)
